@@ -11,7 +11,7 @@ import { Env, ChatMessage } from "./types";
 
 // Model ID for Workers AI model
 // https://developers.cloudflare.com/workers-ai/models/
-const MODEL_ID = "@cf/deepseek-ai/deepseek-math-7b-instruct";
+const MODEL_ID = "@cf/qwen/qwen3-embedding-0.6b";
 
 // Default system prompt
 const SYSTEM_PROMPT =
